@@ -3,6 +3,8 @@ Proyecto personal para Coding Dojo.
 
 Página e-commerce sobre aceites naturales y cosmética natural. Se utilizó React, Redux, React Boostrap, CSS, HTML, MongoDB, MongoAtlas, Express, Nodejs.
 
+:point_right: [Live preview](http://34.234.77.210/)
+
 Imagen 1:
 ![screenShot01](images/mainpage.png)
 
@@ -47,4 +49,3 @@ nodemon server.js
 ```
 npm run start 
 ``` 
-:point_right: [Live preview](http://34.234.77.210/)

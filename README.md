@@ -47,3 +47,4 @@ nodemon server.js
 ```
 npm run start 
 ``` 
+:point_right: [Live preview](http://34.234.77.210/)
